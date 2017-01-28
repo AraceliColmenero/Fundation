@@ -1,4 +1,9 @@
 class Dog
+
+attr_accessor :name, :age
+
+
+
  def make_up_name
    @name="Sandy"
  end
